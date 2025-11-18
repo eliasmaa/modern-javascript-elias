@@ -1,6 +1,6 @@
 //oppg1.
 
-Elias Aardal- Oppgavesett 3a Operators
+//Elias Aardal- Oppgavesett 3a Operators
 console.log("Elias Aardal - Oppgavesett 3a Operators");
 
 //oppg2.
