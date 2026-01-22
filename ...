@@ -1,0 +1,13 @@
+else if(selectedOption === 1 ){
+
+        return "Brukeren startet programmet"
+    }
+    else if(selectedOption === 2 ){
+        return "Brukeren vil gjøre en utskrift"
+    }
+    else if(selectedOption === 3){
+        return "Brukeren vil avslutte programmet"
+    }
+    else {
+        return "Valget er ikke et gyldig valg. Velg på nyt"
+    }
