@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* oppgavesett-1 oppgave 1*/
 console.log("hello world!")
 /* oppgavesett-1 oppgave 2*/
@@ -70,6 +71,10 @@ console.log(typeof i);
 
 >>>>>>> oppgavesett-2
 =======
+=======
+//oppgsett.3
+
+>>>>>>> oppgavesett-5
 //oppg1.
 
 //Elias Aardal- Oppgavesett 3a Operators
